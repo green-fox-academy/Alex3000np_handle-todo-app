@@ -1,4 +1,5 @@
 Walk the dog
-Buy milk
 Do homework
-Feed the monkey
+Do not feed cat
+learn java
+do not watch tv
