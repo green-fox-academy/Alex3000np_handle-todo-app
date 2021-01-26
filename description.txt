@@ -1,0 +1,4 @@
+repository: https://github.com/green-fox-academy/Alex3000np_handle-todo-app
+proj. details: https://github.com/green-fox-academy/teaching-materials/tree/master/project/todo-app#print-usage
+repository https://github.com/green-fox-academy/yehven_handle-todo-app/blob/master/Todo%20App/src/Main.java
+repository https://github.com/green-fox-academy/ah-mady-todo-app/blob/master/Todo/src/FileHandler.java
